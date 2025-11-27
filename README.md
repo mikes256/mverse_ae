@@ -9,8 +9,8 @@
 this project standardises apprentice survey data from two systems `Ash` and `Elm` into a unified analytics model for consistent reporting and stakeholder insights
 
 ## source overview
-`apprentice_users.csv`: apprentice metadata
-`ash_*`: Ash survey responses
+`apprentice_users.csv`: apprentice metadata     
+`ash_*`: Ash survey responses    
 `elm_*`: Elm survey responses
 
 ## transformation steps
@@ -36,7 +36,7 @@ this project standardises apprentice survey data from two systems `Ash` and `Elm
 **Average Net Promoter Score (NPS) by employer**
 - `fact_survey_responses`, filter for Net Promoter Score questions
 
-- Join to `dim_employer`.`apprentice_id` = `dim_apprentice``employer_id`
+- Join to `dim_employer`.`apprentice_id` = `dim_apprentice`.`employer_id`
 
 - Aggregate by `month/quarter` using `response_date_at`
 ----

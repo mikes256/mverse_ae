@@ -3,11 +3,17 @@ with responses as (
         asr.response_id
         ,asr.apprentice_id
         ,asr.question_id
-        ,esr.submitted_response
+        ,asr.submitted_response
         ,asr.response_at
     from {{ref('stg__ash_survey_responses')}} asr
-    join {{ref('stg__elm_survey_responses')}} esr
-        on asr.response_id = esr.response_id
+    union
+    select 
+        esr.response_id
+        ,esr.apprentice_id
+        ,esr.question_id
+        ,esr.submitted_response
+        ,esr.response_date_at
+    from {{ref('stg__elm_survey_responses')}} esr
 )
 select *
 from responses

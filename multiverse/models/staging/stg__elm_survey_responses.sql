@@ -5,7 +5,7 @@ with elm_survey_responses as (
         ,question_type
         ,question_id
         ,submitted_response
-        ,time_of_response::date as 'response_date_at'
+        ,time_of_response::DATETIME as response_date_at
     from {{ ref('elm_survey_responses') }}
 )
 select *

@@ -30,3 +30,31 @@ this project standardises apprentice survey data from two systems `Ash` and `Elm
     - operates as a star schema with joining dimensions table
     - case statements for flags and easily identifiable KPI's which can answer busniess questions at a glance
     - dbt tests for new join referencial integrity
+
+
+## business question
+**Average Net Promoter Score (NPS) by employer**
+- `fact_survey_responses`, filter for Net Promoter Score questions
+
+- Join to `dim_employer`.`apprentice_id` = `dim_apprentice``employer_id`
+
+- Aggregate by `month/quarter` using `response_date_at`
+----
+**Programme difficulty perception over time**
+
+- `fact_survey_responses` i would include a case statement to easily identify difficulty related questions
+- join `dim_programme` to `dim_apprentice`
+- `dim__date`.`response_date_at` to track changes over time
+---
+**Apprentices on-break distributed by age**
+
+- `fact_apprentice_status` where `apprentice_status` = `'on-break'`
+- join to `dim_apprentice` to group by `age_group`
+---
+**Programme content suitability by age group**
+
+- join `fact_survey_responses` to `dim_apprentice`.`programme_id` and `dim_programme`.`programme_id`
+
+- filter for content related questions
+
+- compare responses across age groups with a case statement

@@ -1,0 +1,11 @@
+survey_id,survey_name,survey_description,effective_from,effective_until
+1,'Apprenticeship Satisfaction Survey',<p>Collects feedback on overall apprenticeship satisfaction</p>,01/01/2020 00:00,
+2,'Content Challenge Survey',<p>Assesses the perceived challenge level of the program content</p>,01/06/2020 00:00,10/01/2024 23:59
+3,'Apprentice Impact Survey',<p>Measures the impact of apprenticeship on career and work activities</p>,01/01/2021 00:00,
+4,'Recommendation NPS Survey',<p>Assesses the likelihood of recommending the apprenticeship program</p>,01/01/2020 00:00,
+5,'Work-Life Balance Survey',<p>Explores the impact of the apprenticeship on work-life balance</p>,01/01/2020 00:00,
+6,'Technology Skills Assessment',<p>Assesses the development of technical skills during the apprenticeship</p>,01/01/2020 00:00,
+7,'Team Collaboration Survey',<p>Collects feedback on the collaboration experience within the apprenticeship</p>,01/07/2022 00:00,
+8,'Job Role Alignment Survey',<p>Assesses the alignment of the apprenticeship with the apprentice''s job role</p>,01/10/2020 00:00,31/12/2023 23:59
+9,'Mentorship Effectiveness Survey',<p>Measures the effectiveness of mentorship in the apprenticeship</p>,15/05/2021 00:00,
+10,'Professional Growth Survey',<p>Explores the impact of the apprenticeship on professional growth</p>,13/01/2024 00:00,

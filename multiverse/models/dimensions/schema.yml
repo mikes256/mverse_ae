@@ -1,0 +1,25 @@
+
+version: 2
+
+models:
+  - name: dim__apprentice
+    description: "dimension apprentice users"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: dim__question
+    description: "dimension questions given to the users"
+    columns:
+      - name: question_id
+        description: "unique question for each user"
+        data_tests:
+          - not_null
+      - name: survey_id
+        description: "unique survey for user"
+        data_tests:
+          - not_null
+

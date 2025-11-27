@@ -1,0 +1,11 @@
+survey_id,survey_name,survey_description,effective_from
+'550e8400-e29b-41d4-a716-446655440001',Apprenticeship Satisfaction,'<p>Collects feedback on overall apprenticeship satisfaction</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440002',Content Challenge,'<p>Assesses the perceived challenge level of the program content</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440003',Apprentice Impact,'<p>Measures the impact of apprenticeship on career and work activities</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440004',Recommendation NPS,'<p>Assesses the likelihood of recommending the apprenticeship program</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440005',Work-Life Balance,'<p>Explores the impact of the apprenticeship on work-life balance</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440006',Technology Skills,'<p>Assesses the development of technical skills during the apprenticeship</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440007',Team Collaboration,'<p>Collects feedback on the collaboration experience within the apprenticeship</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440008',Job Role Alignment,'<p>Assesses the alignment of the apprenticeship with the apprentice''s job role</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440009',Mentorship Effectiveness,'<p>Measures the effectiveness of mentorship in the apprenticeship</p>','2024-01-01 00:00:00'
+'550e8400-e29b-41d4-a716-446655440010',Professional Growth,'<p>Explores the impact of the apprenticeship on professional growth</p>','2024-01-01 00:00:00'

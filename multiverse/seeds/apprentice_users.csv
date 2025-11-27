@@ -1,0 +1,31 @@
+apprentice_id,apprentice_full_name,apprenticedob,apprentice_status,apprentice_start_date,apprentice_employer_name,employer_tier,employer_total_headcount,csm_name,programme_name,programme_id,programme_started_date
+1007,Daniel Garcia,21 July 1998,on-programme,10/01/2024,ByteCraft,bronze,40,Jack Davies,Data Analytics,P007,15/12/2020
+1017,Mia Silva,02 February 1980,on-programme,10/01/2024,ByteCraft,bronze,40,Jack Davies,Data Analytics,P007,15/12/2020
+1026,Emma Lucy Smith,15 January 1991,on-programme,20/05/2022,ByteCraft,bronze,40,Jack Davies,UX/UI Design,P006,21/08/2021
+1003,Robert Johnson,09 September 1973,on-programme,20/02/2023,code crafters,bronze,15,John Jones,Web Development,P003,2021-02-01
+1013,bob johnson,06 February 1969,on-programme,11/01/2024,Code Crafters,bronze,15,John Jones,Web Development,P003,2021-02-01
+1030,Sophia Davis,04 March 1987,on-programme,15/09/2022,Code crafters,bronze,15,John Jones,Web Development,P003,2021-04-02
+1024,Ava Anderson,15 February 1995,on break ,28/10/2021,CodeCrafters,bronze,15,John Jones,IT Support,P004,01/12/2019
+1002,Jane Smith,23 September 1988,on-programme,10/09/2022,Data Wizards,Gold,400,Karen Perry,Data Science,P002,07/03/2021
+1012,Bob Harvey,08 July 2000,on-programme,10/09/2022,Data Wizards,Gold,400,Karen Perry,Data Science,P002,07/03/2021
+1005,Alex james Rodriguez,05 November 1979,on-programme,18/08/2023,Digital Innovations,Platinum,200,Joan Scott,Cybersecurity,p005,10/01/2021
+1015,Frank Wilson,12 April 1992,on-programme,18/08/2023,Digital Innovations,Platinum,200,Joan Scott,Cybersecurity,P005,10/01/2021
+1023,Elijah  Robinson,30 June 1985,on-programme,05/01/2024,Digital Innovations,Platinum,200,Joan Scott,Web Development,P003,2021-04-02
+1009,Ethan Jack Patel,17 October 1973,on-programme,01/04/2023,InfoTech Innovations,Silver,135,Diogo Pereira,Digital Marketing,P009,25/06/2020
+1019,Cathy June Gomes,22 March 1998,on-programme,01/04/2023,InfoTech Innovations,Silver,135,Diogo Pereira,Digital Marketing,p009,25/06/2020
+1028,Abigail Martin,19 December 1982,on break ,07/06/2021,InfoTech Innovations,Silver,135,Diogo Pereira,Digital Marketing,P009,01/04/2020
+1004,Emily Rose Brown,03 August 1991,on-programme,03/11/2021,InnoTech Solutions,Silver,75,John Jones,IT Support,P004,07/02/2020
+1014,David Miller,28 May 1976,on-programme,03/11/2021,InnoTech Solutions,Silver,75,John Jones,IT Support,P004,07/02/2020
+1021,Noah Wilson,10 January 2002,on-programme,12/03/2023,InnoTech Solutions,Silver,75,John Jones,Software Engineering,p001,01/05/2022
+1008,Olivia Rachel Kim,14 July 1989,on-programme,14/07/2021,Innovate Solutions,Bronze,90,Diogo Pereira,Network Administration,P008,22/05/2020
+1018,Quinn Hall,09 September 1997,on break ,14/07/2021,Innovate Solutions,Bronze,90,Diogo Pereira,Network Administration,P008,22/05/2020
+1027,Owen Garcia,26 April 1980,on-programme,05/01/2024,Innovate Solutions,Bronze,90,Diogo Pereira,Data Analytics,P007,15/02/2021
+1010,Ava Mae  Miller,02 December 1971,on break ,08/10/2022,Quantum Labs,Gold,40,Jack Davies,Quantum Computing,P010,26/04/2022
+1020,Riley Turner,18 November 1994,on-programme,08/10/2022,Quantum Labs,Gold,40,Jack Davies,Quantum Computing,p010,26/04/2022
+1029,Lucas Brown,07 February 1987,on break ,25/03/2023,Quantum Labs,Gold,40,Jack Davies,Quantum Computing,P010,20/05/2021
+1006,Sophia nguyen,15 June 2001,on-programme,25/06/2022,Tech Dynamics,Gold,400,Karen Perry,UX/UI Design,P006,21/08/2021
+1016,Ivy Jones,09 August 1978,on-programme,25/06/2022,Tech Dynamics,Gold,400,Karen Perry,UX/UI Design,P006,21/08/2021
+1025,Liam Johnson,10 October 2000,on-programme,15/07/2023,Tech Dynamics,Gold,400,Karen Perry,Cybersecurity,p005,05/12/2021
+1001,John  James Doe,05 May 1995,on-programme,15/05/2023,Tech Innovators,Bronze,225,Sam Berridge,Software Engineering,p001,01/05/2022
+1011,Alice Smith,20 November 1984,on-programme,15/05/2023,Tech Innovators,Bronze,225,Sam Berridge,Software Engineering,P001,01/05/2022
+1022,Olivia Turner,14 June 1999,on-programme,25/08/2022,Tech Innovators,Bronze,225,Sam Berridge,Data Science,P002,07/11/2020
